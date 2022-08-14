@@ -1,0 +1,62 @@
+{
+    "devs" : [
+        {
+            "id" : 1,
+            "name" : "faruk",
+            "skill" : "javascript",
+            "location" : "kishoreganj"
+        },
+        {
+            "id" : 2,
+            "name" : "korim",
+            "skill" : "php",
+            "location" : "uttara"
+        },
+        {
+            "id" : 3,
+            "name" : "rony",
+            "skill" : "javascript",
+            "location" : "kishoreganj"
+        }
+    ],
+    "products" : [
+        {
+            "id" : 1,
+            "name" : "cream",
+            "skill" : "shop app",
+            "location" : "kishoreganj"
+        },
+        {
+            "id" : 2,
+            "name" : "korim",
+            "skill" : "php",
+            "location" : "uttara"
+        },
+        {
+            "id" : 3,
+            "name" : "rony",
+            "skill" : "javascript",
+            "location" : "kishoreganj"
+        }
+    ],
+    "students" : [
+        {
+            "id" : 1,
+            "name" : "faruk",
+            "skill" : "Math english",
+            "location" : "kishoreganj"
+        },
+        {
+            "id" : 2,
+            "name" : "korim",
+            "skill" : "php",
+            "location" : "uttara"
+        },
+        {
+            "id" : 3,
+            "name" : "rony",
+            "skill" : "javascript",
+            "location" : "kishoreganj"
+        }
+    ]
+}
